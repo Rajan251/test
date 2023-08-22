@@ -1,0 +1,6 @@
+{{#user}}
+Name: Rajan Kumar
+Skills: HTML, CSS, JS, Next.js
+Email: rajemishra77@gmail.com
+{{/user}}
+
